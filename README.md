@@ -35,6 +35,8 @@ This project is a dynamic, data-driven Travel Blogging and Review Platform devel
 - Input validation & error handling
 - SEO support: meta tags, robots.txt, sitemap.xml
 - Privacy Policy page
+- Admin dashboard for moderation (delete posts/reviews)
+- SEO files included: robots.txt and sitemap.xml
 
 ## Admin Access
 Admin role is stored in the database (phpMyAdmin users table).  
